@@ -16,7 +16,6 @@ const CounterApp = ({ value = 10 }) => {
     
     const handleReset = () => setCounter( value );
 
-
     return (
         <>
             <h1>CounterApp</h1>
